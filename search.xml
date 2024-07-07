@@ -17,11 +17,11 @@
     
     
     <entry>
-      <title>Hexo博客</title>
-      <link href="/2024/07/07/CM%E5%A4%A7%E4%BD%AC/"/>
-      <url>/2024/07/07/CM%E5%A4%A7%E4%BD%AC/</url>
+      <title>这是一好的博文</title>
+      <link href="/2024/07/07/%E8%BF%99%E6%98%AF%E4%B8%80%E5%A5%BD%E7%9A%84%E5%8D%9A%E6%96%87/"/>
+      <url>/2024/07/07/%E8%BF%99%E6%98%AF%E4%B8%80%E5%A5%BD%E7%9A%84%E5%8D%9A%E6%96%87/</url>
       
-        <content type="html"><![CDATA[<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/Qss3XdMsHKM?si=kJi2pqzUp_5ZIl2F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
+        <content type="html"><![CDATA[<div class="video-container"><iframe height=498 width=510 src='https://player.youku.com/embed/XNjM3OTg1NTEzMg==' frameborder=0 'allowfullscreen'></iframe></div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
       
       
       
@@ -30,11 +30,11 @@
     
     
     <entry>
-      <title>这是一好的博文</title>
-      <link href="/2024/07/07/%E8%BF%99%E6%98%AF%E4%B8%80%E5%A5%BD%E7%9A%84%E5%8D%9A%E6%96%87/"/>
-      <url>/2024/07/07/%E8%BF%99%E6%98%AF%E4%B8%80%E5%A5%BD%E7%9A%84%E5%8D%9A%E6%96%87/</url>
+      <title>Hexo博客</title>
+      <link href="/2024/07/07/CM%E5%A4%A7%E4%BD%AC/"/>
+      <url>/2024/07/07/CM%E5%A4%A7%E4%BD%AC/</url>
       
-        <content type="html"><![CDATA[<div class="video-container"><iframe height=498 width=510 src='https://player.youku.com/embed/XNjM3OTg1NTEzMg==' frameborder=0 'allowfullscreen'></iframe></div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
+        <content type="html"><![CDATA[<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/Qss3XdMsHKM?si=kJi2pqzUp_5ZIl2F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
       
       
       
